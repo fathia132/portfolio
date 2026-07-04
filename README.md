@@ -1,6 +1,6 @@
 # 👋 Fatha's Portfolio - Biomedical Engineer + Developer
 
-**Hi! I'm Fatha** - A passionate **Biomedical Engineer** from Lagos, Nigeria building innovative healthcare solutions through code. I combine domain expertise in biomedical engineering with practical software development skills.
+**Hi! I'm Fatha** - A passionate **Biomedical Engineer** from Lagos, Nigeria building innovative healthcare solutions through code. I combine domain expertise in biomedical engineering with practical software development skills.Also pursuing my interest in ai engineering.
 
 ---
 
