@@ -220,7 +220,6 @@ pip install pandas numpy scipy matplotlib plotly flask
 
 ### Contact Me
 - 📧 **Email:** fatha132@gmail.com
-- 🔗 **LinkedIn:** [Add your LinkedIn URL]
 - 📱 **GitHub:** [github.com/fatha132](https://github.com/fatha132)
 
 ---
